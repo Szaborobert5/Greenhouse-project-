@@ -3,7 +3,10 @@
 This project is a Smart Greenhouse Automation System designed to monitor environmental conditions and automatically control ventilation, irrigation, lighting, and mechanical actions.
 The system is built around an Arduino Nano and a custom-designed PCB, integrating multiple sensors and actuators to maintain optimal plant-growing conditions with minimal human intervention.
 
-Images/greenhouse.png
+<p align="center">
+  <img src="Images/greenhouse.png" width="600">
+</p>
+
 
 
 This project was built by a group of students of Faculty of Technical Scinces

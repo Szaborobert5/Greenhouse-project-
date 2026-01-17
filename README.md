@@ -11,18 +11,18 @@ The system is built around an Arduino Nano and a custom-designed PCB, integratin
 
 This project was built by a group of students of Faculty of Technical Scinces
 
-## ✨ Features
+## Features
 
-- 🌡️ Temperature, Humidity & Pressure Monitoring (BME280)
-- 🌱 Soil Moisture Measurement and automatic irrigation
-- 💡 Light Intensity Detection with automatic LED control
-- 🌬️ Ventilation System using DC motor + servo window control
-- 🕒 Real-Time Clock (RTC) for scheduled weekly actions
-- 🌀 Stepper Motor Control for periodic mechanical movement
-- 📟 OLED Display for real-time data visualization
-- 🔊 Buzzer Alerts for system events
+- Temperature, Humidity & Pressure Monitoring (BME280)
+- Soil Moisture Measurement and automatic irrigation
+- Light Intensity Detection with automatic LED control
+- Ventilation System using DC motor + servo window control
+- Real-Time Clock (RTC) for scheduled weekly actions
+- Stepper Motor Control for periodic mechanical movement
+- OLED Display for real-time data visualization
+- Buzzer Alerts for system events
 
-## 🧠 System Logic
+## System Logic
 
 1️⃣ Environmental Monitoring
 
@@ -92,7 +92,7 @@ The system uses a custom two-layer PCB designed to:
   <img src="Images/PCB_Layout.png" width="750">
 </p>  
 
-## 🚀 Future Improvements
+## Future Improvements
 - Wi-Fi (ESP32 / ESP8266) for remote monitoring
 - Mobile app or web dashboard
 - Data logging (SD card or cloud)

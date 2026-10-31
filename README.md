@@ -9,7 +9,7 @@ The system is built around an Arduino Nano and a custom-designed PCB, integratin
 
 
 
-This project was built by a group of students of Faculty of Technical Scinces
+This project was built by a group of students of Faculty of Technical Sciences
 
 ## Features
 
